@@ -1,0 +1,1 @@
+// Content of App.tsx from the root
